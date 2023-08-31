@@ -1,4 +1,4 @@
-# Poseidon
+# Ocean Waste Tracker
 
 ![Project Duration: Oct 2019 - Oct 2019](https://img.shields.io/badge/Project%20Duration-Oct%202019%20to%20Oct%202019-blue)
 
